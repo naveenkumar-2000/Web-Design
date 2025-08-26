@@ -1,0 +1,75 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+li,ul{
+    display: inline;
+}
+
+.no1:hover{
+    color: blue;
+    cursor: pointer;
+}
+
+.no2{
+    color: green;
+}
+
+
+.box{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    width: 250px;
+    height: 410px;
+    display: inline-block;
+    text-align: center;
+    margin-top: 130px;
+    background-color: gray;
+}
+
+.order{
+    background-color: black;
+    color: white;
+    display: inline-block;
+    padding: 4px;
+}
+
+.order:hover{
+    color: blue;
+    cursor: pointer;
+}
+.box:hover{
+    background-color: gray;
+    color: rgb(0, 213, 255);
+}
+
+.foods{
+    text-align: center;
+}
+
+nav{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+
+}
+
+.no9{
+    padding: 10px;
+}
+
+.send{
+    background-color: yellow;
+    color: black;
+    padding: 10px;
+    width: 400px;
+    margin-top: 20px;
+}
+
+.contactus{
+    margin-top: 250px;
+}
